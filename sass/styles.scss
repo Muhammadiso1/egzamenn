@@ -160,7 +160,7 @@
 }
 .page-2 {
   margin-left: 45px;
-  transform: translateY(-222px);
+  transform: translateY(100px);
   margin-bottom: 400px;
   img {
     transform: translateY(-111px);
@@ -223,9 +223,11 @@
 }
 
 .page-3 {
+  transform: translateY(300px);
   img {
     display: flex;
     margin-top: -900px;
+    // transform: translateY(00px);
     border-radius: 50%;
     margin-left: 50px;
   }
@@ -279,7 +281,7 @@
 }
 .page-4 {
   margin-left: 45px;
-  transform: translateY(-222px);
+  transform: translateY(-100px);
 
   img {
     //  transform: translateY(-111px);
@@ -364,7 +366,8 @@ footer {
       background-color: #e5ecf4;
       border-radius: 4px;
       margin-left: 800px;
-      transform: translateY(-200px);
+      transform: translateY(-100px);
+      padding-left: 76px;
       h1 {
         font-family: "Space Mono";
         font-style: normal;
@@ -403,7 +406,8 @@ footer {
       background-color: #e5ecf4;
       border-radius: 4px;
       margin-left: 1000px;
-      transform: translateY(-250px);
+      transform: translateY(-150px);
+      padding-left: 53px;
       h1 {
         font-family: "Space Mono";
         font-style: normal;

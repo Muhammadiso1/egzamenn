@@ -157,7 +157,7 @@
 
 .page-2 {
   margin-left: 45px;
-  transform: translateY(-222px);
+  transform: translateY(100px);
   margin-bottom: 400px;
 }
 .page-2 img {
@@ -216,6 +216,9 @@
   margin-top: -180px;
 }
 
+.page-3 {
+  transform: translateY(300px);
+}
 .page-3 img {
   display: flex;
   margin-top: -900px;
@@ -271,7 +274,7 @@
 
 .page-4 {
   margin-left: 45px;
-  transform: translateY(-222px);
+  transform: translateY(-100px);
 }
 .page-4 img {
   margin-left: 700px;
@@ -354,7 +357,8 @@ footer .apps .box {
   background-color: #e5ecf4;
   border-radius: 4px;
   margin-left: 800px;
-  transform: translateY(-200px);
+  transform: translateY(-100px);
+  padding-left: 76px;
 }
 footer .apps .box h1 {
   font-family: "Space Mono";
@@ -392,7 +396,8 @@ footer .apps .box-2 {
   background-color: #e5ecf4;
   border-radius: 4px;
   margin-left: 1000px;
-  transform: translateY(-250px);
+  transform: translateY(-150px);
+  padding-left: 53px;
 }
 footer .apps .box-2 h1 {
   font-family: "Space Mono";
